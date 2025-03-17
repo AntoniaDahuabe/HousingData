@@ -1,9 +1,7 @@
 Area,Name,lsoa11nm,lsoa11cd,chgind,lsoa21nm,lsoa21cd
+Atom Valley , Bury 017A,Bury 017A,E01004945,U,Bury 017A,E01004945
 Atom Valley , Bury 022A,Bury 022A,E01004969,U,Bury 022A,E01004969
-Atom Valley , Rochdale 024C,Rochdale 024C,E01005546,U,Rochdale 024C,E01005546
-Atom Valley , Rochdale 024D,Rochdale 024D,E01005547,U,Rochdale 024D,E01005547
-Atom Valley , Rochdale 022D,Rochdale 022D,E01005552,U,Rochdale 022D,E01005552
-Atom Valley , Rochdale 022F,Rochdale 022F,E01005554,U,Rochdale 022F,E01005554
+Green Belt,Bury 014C,Bury 014C,E01004999,U,Bury 014C,E01004999
 City Centre, Manchester 018B,Manchester 018B,E01005062,S,Manchester 018G,E01034116
 City Centre, Manchester 018B,Manchester 018B,E01005062,S,Manchester 018F,E01034115
 City Centre, Manchester 018E,Manchester 018E,E01005066,U,Manchester 018E,E01005066
@@ -15,16 +13,17 @@ City Centre, Manchester 019B,Manchester 019B,E01005209,S,Manchester 019F,E010341
 City Centre, Manchester 019B,Manchester 019B,E01005209,S,Manchester 019E,E01034117
 City Centre, Manchester 019C,Manchester 019C,E01005210,U,Manchester 019C,E01005210
 City Centre, Manchester 057A,Manchester 057A,E01005212,U,Manchester 057A,E01005212
+Atom Valley , Rochdale 020F,Rochdale 020F,E01005508,U,Rochdale 020F,E01005508
 City Centre, Salford 022D,Salford 022D,E01005610,U,Salford 034C,E01005610
 City Centre, Salford 022E,Salford 022E,E01032684,U,Salford 034D,E01032684
 City Centre, Salford 022F,Salford 022F,E01032687,S,Salford 033D,E01033990
 City Centre, Salford 022F,Salford 022F,E01032687,S,Salford 033C,E01033989
 City Centre, Salford 022G,Salford 022G,E01032906,U,Salford 034E,E01032906
-City Centre, Salford 022H,Salford 022H,E01032907,S,Salford 034B,E01033992
 City Centre, Salford 022H,Salford 022H,E01032907,S,Salford 034A,E01033991
+City Centre, Salford 022H,Salford 022H,E01032907,S,Salford 034B,E01033992
 City Centre, Salford 022I,Salford 022I,E01032909,U,Salford 033F,E01032909
-City Centre, Salford 022J,Salford 022J,E01032911,S,Salford 033B,E01033988
 City Centre, Salford 022J,Salford 022J,E01032911,S,Salford 033A,E01033987
+City Centre, Salford 022J,Salford 022J,E01032911,S,Salford 033B,E01033988
 City Centre, Salford 017F,Salford 017F,E01032919,S,Salford 017H,E01033981
 City Centre, Salford 017F,Salford 017F,E01032919,S,Salford 017G,E01033980
 City Centre, Manchester 054B,Manchester 054B,E01033651,U,Manchester 054B,E01033651
@@ -47,7 +46,6 @@ City Centre, Manchester 058C,Manchester 058C,E01033674,U,Manchester 058C,E010336
 City Centre, Manchester 060A,Manchester 060A,E01033677,U,Manchester 060A,E01033677
 City Centre, Manchester 060B,Manchester 060B,E01033681,U,Manchester 060B,E01033681
 City Centre, Manchester 060C,Manchester 060C,E01033682,U,Manchester 060C,E01033682
-City Centre, Manchester 060D,Manchester 060D,E01033683,S,Manchester 060F,E01034132
 City Centre, Manchester 060D,Manchester 060D,E01033683,S,Manchester 060E,E01034131
+City Centre, Manchester 060D,Manchester 060D,E01033683,S,Manchester 060F,E01034132
 City Centre, Manchester 013F,Manchester 013F,E01033684,U,Manchester 062D,E01033684
-Green Belt,Bury 014C,Bury 014C,E01004999,U,Bury 014C,E01004999
